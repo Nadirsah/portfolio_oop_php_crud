@@ -2,9 +2,9 @@
     <div class="sidebar-logo">
       <!-- Logo Header -->
       <div class="logo-header" data-background-color="dark">
-        <a href="index.html" class="logo">
+        <a href="backindex.php" class="logo">
           <img
-            src="public/admin/assets/img/kaiadmin/logo_light.svg"
+            src="../public/admin/assets/img/kaiadmin/logo_light.svg"
             alt="navbar brand"
             class="navbar-brand"
             height="20" />
@@ -42,50 +42,11 @@
             <div class="collapse" id="base">
               <ul class="nav nav-collapse">
                 <li>
-                  <a href="components/avatars.html">
-                    <span class="sub-item">Avatars</span>
+                  <a href="tenzimlemeler.php">
+                    <span class="sub-item">Tənzimləmələr</span>
                   </a>
                 </li>
-                <li>
-                  <a href="components/buttons.html">
-                    <span class="sub-item">Buttons</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/gridsystem.html">
-                    <span class="sub-item">Grid System</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/panels.html">
-                    <span class="sub-item">Panels</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/notifications.html">
-                    <span class="sub-item">Notifications</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/sweetalert.html">
-                    <span class="sub-item">Sweet Alert</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/font-awesome-icons.html">
-                    <span class="sub-item">Font Awesome Icons</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/simple-line-icons.html">
-                    <span class="sub-item">Simple Line Icons</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="components/typography.html">
-                    <span class="sub-item">Typography</span>
-                  </a>
-                </li>
+               
               </ul>
             </div>
           </li>

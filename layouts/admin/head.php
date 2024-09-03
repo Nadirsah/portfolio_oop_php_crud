@@ -9,12 +9,12 @@
     />
     <link
       rel="icon"
-      href="public/admin/assets/img/kaiadmin/favicon.ico"
+      href="../public/admin/assets/img/kaiadmin/favicon.ico"
       type="image/x-icon"
     />
 
     <!-- Fonts and icons -->
-    <script src="public/admin/assets/js/plugin/webfont/webfont.min.js"></script>
+    <script src="../public/admin/assets/js/plugin/webfont/webfont.min.js"></script>
     <script>
       WebFont.load({
         google: { families: ["Public Sans:300,400,500,600,700"] },
@@ -34,11 +34,11 @@
     </script>
 
     <!-- CSS Files -->
-    <link rel="stylesheet" href="public/admin/assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="public/admin/assets/css/plugins.min.css" />
-    <link rel="stylesheet" href="public/admin/assets/css/kaiadmin.min.css" />
+    <link rel="stylesheet" href="../public/admin/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../public/admin/assets/css/plugins.min.css" />
+    <link rel="stylesheet" href="../public/admin/assets/css/kaiadmin.min.css" />
 
     <!-- CSS Just for demo purpose, don't include it in your project -->
-    <link rel="stylesheet" href="public/admin/assets/css/demo.css" />
+    <link rel="stylesheet" href="../public/admin/assets/css/demo.css" />
   </head>
   <body>
